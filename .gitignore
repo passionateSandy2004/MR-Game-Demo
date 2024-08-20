@@ -1,0 +1,32 @@
+ECHO is on.
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Aa]ssets/AddressableAssetsData/*/*.bin*
+[Aa]ssets/AddressableAssetsData/*/*.hash*
+[Aa]ssets/StreamingAssets/aa/*
+[Aa]ssets/Scripts/Generated/
+[Aa]ssets/Audio.Generated/
+UserSettings/
+Assets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
